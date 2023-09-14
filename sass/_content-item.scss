@@ -1,0 +1,7 @@
+.content-item {
+  display: none;
+}
+
+.content-item.content-item__active {
+  display: inline-block;
+}

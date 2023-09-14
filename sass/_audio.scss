@@ -1,0 +1,25 @@
+.audio {
+  background-image: url(../images/man-full.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+.audio__inner {
+  min-height: 240vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.audio__box {
+  color: #fff;
+  text-align: center;
+  padding-bottom: 75vh;
+}
+
+.audio__text {
+  width: 300px;
+
+  margin-bottom: 15px;
+}
